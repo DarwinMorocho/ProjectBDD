@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ProjectBDD.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Setting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source=(local);Initial Catalog=VC_GLOB_GUSTERS;Persist Security Info=True;User ID=bases;password=bases</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

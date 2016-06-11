@@ -1,0 +1,16 @@
+c:\users\gato\documents\visual studio 2010\Projects\ProjectBDD\ProjectBDD\bin\Debug\ProjectBDD.exe.config
+c:\users\gato\documents\visual studio 2010\Projects\ProjectBDD\ProjectBDD\bin\Debug\ProjectBDD.exe
+c:\users\gato\documents\visual studio 2010\Projects\ProjectBDD\ProjectBDD\bin\Debug\ProjectBDD.pdb
+c:\users\gato\documents\visual studio 2010\Projects\ProjectBDD\ProjectBDD\bin\Debug\IrisSkin2.dll
+c:\users\gato\documents\visual studio 2010\Projects\ProjectBDD\ProjectBDD\bin\Debug\Servicios.dll
+c:\users\gato\documents\visual studio 2010\Projects\ProjectBDD\ProjectBDD\bin\Debug\BaseDatos.dll
+c:\users\gato\documents\visual studio 2010\Projects\ProjectBDD\ProjectBDD\bin\Debug\Servicios.pdb
+c:\users\gato\documents\visual studio 2010\Projects\ProjectBDD\ProjectBDD\bin\Debug\BaseDatos.pdb
+c:\users\gato\documents\visual studio 2010\Projects\ProjectBDD\ProjectBDD\obj\x86\Debug\ProjectBDD.csprojResolveAssemblyReference.cache
+c:\users\gato\documents\visual studio 2010\Projects\ProjectBDD\ProjectBDD\obj\x86\Debug\ProjectBDD.FrmAlquilar.resources
+c:\users\gato\documents\visual studio 2010\Projects\ProjectBDD\ProjectBDD\obj\x86\Debug\ProjectBDD.MDIPrincipal.resources
+c:\users\gato\documents\visual studio 2010\Projects\ProjectBDD\ProjectBDD\obj\x86\Debug\ProjectBDD.Properties.Resources.resources
+c:\users\gato\documents\visual studio 2010\Projects\ProjectBDD\ProjectBDD\obj\x86\Debug\ProjectBDD.csproj.GenerateResource.Cache
+c:\users\gato\documents\visual studio 2010\Projects\ProjectBDD\ProjectBDD\obj\x86\Debug\ProjectBDD.exe
+c:\users\gato\documents\visual studio 2010\Projects\ProjectBDD\ProjectBDD\obj\x86\Debug\ProjectBDD.pdb
+c:\users\gato\documents\visual studio 2010\Projects\ProjectBDD\ProjectBDD\obj\x86\Debug\ProjectBDD.FrmLogin.resources

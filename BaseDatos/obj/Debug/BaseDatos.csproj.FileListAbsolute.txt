@@ -1,0 +1,4 @@
+c:\users\gato\documents\visual studio 2010\Projects\ProjectBDD\BaseDatos\bin\Debug\BaseDatos.dll
+c:\users\gato\documents\visual studio 2010\Projects\ProjectBDD\BaseDatos\bin\Debug\BaseDatos.pdb
+c:\users\gato\documents\visual studio 2010\Projects\ProjectBDD\BaseDatos\obj\Debug\BaseDatos.dll
+c:\users\gato\documents\visual studio 2010\Projects\ProjectBDD\BaseDatos\obj\Debug\BaseDatos.pdb

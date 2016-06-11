@@ -1,0 +1,7 @@
+c:\users\gato\documents\visual studio 2010\Projects\ProjectBDD\Servicios\bin\Debug\Servicios.dll
+c:\users\gato\documents\visual studio 2010\Projects\ProjectBDD\Servicios\bin\Debug\Servicios.pdb
+c:\users\gato\documents\visual studio 2010\Projects\ProjectBDD\Servicios\bin\Debug\BaseDatos.dll
+c:\users\gato\documents\visual studio 2010\Projects\ProjectBDD\Servicios\bin\Debug\BaseDatos.pdb
+c:\users\gato\documents\visual studio 2010\Projects\ProjectBDD\Servicios\obj\Debug\Servicios.csprojResolveAssemblyReference.cache
+c:\users\gato\documents\visual studio 2010\Projects\ProjectBDD\Servicios\obj\Debug\Servicios.dll
+c:\users\gato\documents\visual studio 2010\Projects\ProjectBDD\Servicios\obj\Debug\Servicios.pdb
